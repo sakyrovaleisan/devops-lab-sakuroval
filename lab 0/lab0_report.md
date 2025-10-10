@@ -14,3 +14,4 @@ Date of finished: 17.10.2025
 
 Скриншоты:
 ![telegram-cloud-photo-size-2-5411087322247723974-y](https://github.com/user-attachments/assets/f314038c-ed54-425a-b06c-298fa75d8e2f)
+![Uploading image.png…]()
