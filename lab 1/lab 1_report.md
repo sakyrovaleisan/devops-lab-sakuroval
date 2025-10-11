@@ -1,4 +1,4 @@
-Лабораторная работа №1
+#Лабораторная работа №1
 University: ITMO University
 Faculty: FICT
 Course: Introduction in Web Technologies
