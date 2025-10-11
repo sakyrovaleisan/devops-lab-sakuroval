@@ -1,4 +1,4 @@
-# Heading level 1 Лабораторная работа №0
+# Heading level1 Лабораторная работа №0
 University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FICT](https://fict.itmo.ru)
 Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)
