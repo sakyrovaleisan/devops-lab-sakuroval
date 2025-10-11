@@ -32,6 +32,7 @@
 <img width="886" height="524" alt="image" src="https://github.com/user-attachments/assets/bdcd38d3-7135-418a-9273-5910d04a4cf3" />
 <img width="894" height="525" alt="image" src="https://github.com/user-attachments/assets/b836191d-d350-4bc8-9785-4ed0c2ca7e91" />
 <img width="897" height="527" alt="image" src="https://github.com/user-attachments/assets/279b5342-481b-4661-80c4-1b02d57daf59" />
+<img width="765" height="375" alt="image" src="https://github.com/user-attachments/assets/d33fae71-629e-4065-acc4-86955f475c18" />
 
 ## Вывод
 Я изучила основы работы с Docker, научилась запускать и управлять контейнерами, работать с томами
