@@ -1,5 +1,5 @@
 # Лабораторная работа №1
-University: ITMO University
+#### University: ITMO University
 Faculty: FICT
 Course: Introduction in Web Technologies
 Year: 2025
