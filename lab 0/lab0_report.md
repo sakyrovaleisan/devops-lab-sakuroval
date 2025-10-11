@@ -13,7 +13,7 @@
 В этой лабораторной работе я создала репозиторий, настроила SSH-ключи и базовые файлы проекта.
 
 ## Результаты: 
-Репозиторий на GitHub,Настроенное окружение,Файлы README.md, .gitignore, CONTRIBUTING.md
+Создан репозиторий на GitHub,Настроенное окружение,Созданы файлы README.md, .gitignore, CONTRIBUTING.md
 
 ## Скриншоты:
 ![telegram-cloud-photo-size-2-5411087322247723974-y](https://github.com/user-attachments/assets/f314038c-ed54-425a-b06c-298fa75d8e2f)
