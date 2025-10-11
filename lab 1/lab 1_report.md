@@ -33,6 +33,10 @@
 <img width="894" height="525" alt="image" src="https://github.com/user-attachments/assets/b836191d-d350-4bc8-9785-4ed0c2ca7e91" />
 <img width="897" height="527" alt="image" src="https://github.com/user-attachments/assets/279b5342-481b-4661-80c4-1b02d57daf59" />
 <img width="1418" height="711" alt="image" src="https://github.com/user-attachments/assets/3eea7454-0e38-4706-9454-d1787ecb3684" />
+<img width="585" height="346" alt="image" src="https://github.com/user-attachments/assets/81f7e86f-ddf6-471a-bed5-7f83f9946265" />
+<img width="593" height="374" alt="image" src="https://github.com/user-attachments/assets/5f364b67-e34d-401f-a930-719da539994b" />
+<img width="575" height="348" alt="image" src="https://github.com/user-attachments/assets/ca0024d0-7ad7-42cb-9a88-6261f6028a75" />
+
 
 
 ## Вывод
