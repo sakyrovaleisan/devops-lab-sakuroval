@@ -18,6 +18,7 @@
 Установлены программы: Python, MkDocs, тема Material
 
 Для выполнения курсовой работы создана папка проекта my-personal-site внутри репозитория. Было настроено виртуальное окружение Python и установлены инструменты MkDocs и Material for MkDocs.
+
 <img width="301" height="324" alt="image" src="https://github.com/user-attachments/assets/bc77b08f-d8bb-4a60-abee-e29af16935af" />
 
 ### Этап 2. Настройка конфигурации MkDocs
